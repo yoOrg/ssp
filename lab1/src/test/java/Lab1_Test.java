@@ -11,5 +11,6 @@ public class Lab1_Test {
 
         Assert.assertEquals("Hello, little my pony!",new Lab1().v11("Hello, my little pony!"));
         Assert.assertEquals("ahahah Clock like 'sounds', tik-tak!",new Lab1().v11("Clock sounds like 'tik-tak', ahahah!"));
+        Assert.assertEquals("",new Lab1().v11("Text with many, many words and words words!"));
     }
 }

@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: Lab1_Test
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.091 sec <<< FAILURE!
-v11_Test(Lab1_Test)  Time elapsed: 0.01 sec  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.061 sec <<< FAILURE!
+v11_Test(Lab1_Test)  Time elapsed: 0.008 sec  <<< FAILURE!
 org.junit.ComparisonFailure: expected:<Hello, [little my] pony!> but was:<Hello, [my little] pony!>
 	at org.junit.Assert.assertEquals(Assert.java:115)
 	at org.junit.Assert.assertEquals(Assert.java:144)
